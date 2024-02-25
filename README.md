@@ -20,24 +20,3 @@ Feel free to reach out to me for collaboration, questions, or just to say hello:
 </a>
 
 ![Spencer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpencerPresley&custom_title=Spencer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-Computer Science Major at Salisbury University | Class of Spring '25
-Currently looking for internship oppurtunities!
-
-Courses taken:
-
-Computer Science:
-Programming Fundamentals 
-Computer Science I
-Computer Science II
-Advanced Data Structures
-Theory of Computation
-System Software
-
-Math:
-College Algebra & Trig
-Calculus I
-Calculus II
-Intro to Discrete Math
-Linear Algebra
-
