@@ -1,4 +1,4 @@
-## Language Stats Including Contributions
+## Language Stats Including Contributions.
 ![Language Stats](./language_stats.svg)
 
 <p align="center">
