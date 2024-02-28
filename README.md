@@ -1,3 +1,6 @@
+## Language Stats Including Contributions
+![Language Stats](./language_stats.svg)
+
 <p align="center">
   <a href="https://github.com/SpencerPresley">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpencerPresley&theme=radical&border=7F3FBF&background=0D1117" alt="Spencer's GitHub Streak" width="48%"/>
