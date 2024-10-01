@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/SpencerPresley">
-    <img src="https://github-profile-trophy.vercel.app/?username=SpencerPresley&theme=radical&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SpencerPresley&theme=radical&row=1&column=7" alt="Trophies" width="96%"/>
   </a>
 </p>
 <p align="center">
