@@ -27,10 +27,3 @@
     <img src="https://badges.pufler.dev/contributions/monthly/SpencerPresley" alt="Monthly Contributions Badge" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/SpencerPresley/repo">
-    <img src="https://img.shields.io/github/stars/SpencerPresley/COSC425-DATA?style=for-the-badge&color=7F3FBF&logo=github" alt="repo stars"/>
-    <img src="https://img.shields.io/github/forks/SpencerPresley/COSC425-DATA?style=for-the-badge&color=F85D7F&logo=github" alt="repo forks"/>
-    <img src="https://img.shields.io/github/issues/SpencerPresley/COSC425-DATA?style=for-the-badge&color=F8D866&logo=github" alt="repo issues"/>
-  </a>
-</p>
