@@ -6,10 +6,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/SpencerPresley">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SpencerPresley&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Spencer's Github Stats" width="46%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SpencerPresley&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Spencer's Github Stats" width="47%"/>
   </a>
   <a href="https://github.com/SpencerPresley">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpencerPresley&theme=radical&border=7F3FBF&background=0D1117" alt="Spencer's GitHub Streak" width="50%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpencerPresley&theme=radical&border=7F3FBF&background=0D1117" alt="Spencer's GitHub Streak" width="49%" />
     </a>
 </p>
 <!-- <p align="center">
