@@ -11,7 +11,7 @@
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SpencerPresley&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Spencer's Github Stats" style="width: 47%;" />
     </a>
     <a href="https://github.com/SpencerPresley" style="flex: 1;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpencerPresley&theme=radical&border=7F3FBF&background=0D1117" alt="Spencer's GitHub Streak" style="width: 49%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpencerPresley&theme=radical&border=7F3FBF&background=0D1117" alt="Spencer's GitHub Streak" style="width: 50%;" />
     </a>
     </p>
   </div>
