@@ -15,15 +15,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SpencerPresley&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile views" />
-</p>
-<p align="center">
   <a href="https://github.com/SpencerPresley">
     <img src="https://github-profile-trophy.vercel.app/?username=SpencerPresley&theme=radical&row=1&column=7" alt="Trophies" />
-  </a>
-</p><p align="center">
-  <a href="https://github.com/SpencerPresley">
-    <img src="https://badges.pufler.dev/years/SpencerPresley" alt="Years Badge" />
-    <img src="https://badges.pufler.dev/contributions/monthly/SpencerPresley" alt="Monthly Contributions Badge" />
   </a>
 </p>
