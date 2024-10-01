@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <div style="display: flex; justify-content: space-between; gap: 1%; width: 100%;">
+  <div style="display: flex; justify-content: space-between; gap: 4%; width: 100%;">
     <p align="center">
     <a href="https://github.com/SpencerPresley" style="flex: 1;">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SpencerPresley&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Spencer's Github Stats" style="width: 46%;" />
